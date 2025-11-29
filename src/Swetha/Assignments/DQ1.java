@@ -1,4 +1,4 @@
-package Swetha;
+package Swetha.Assignments;
 
 public class DQ1 {
     public static void main(String[] args) {

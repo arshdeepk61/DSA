@@ -1,4 +1,4 @@
-package Swetha;
+package Swetha.Assignments;
 
 public class PP4 {
     //Enums always have constant values

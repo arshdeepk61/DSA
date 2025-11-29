@@ -1,4 +1,4 @@
-package Swetha;
+package Swetha.Assignments;
 
 public class PracticeProblem1 {
 

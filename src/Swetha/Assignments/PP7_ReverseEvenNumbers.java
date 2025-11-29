@@ -1,4 +1,4 @@
-package Swetha;
+package Swetha.Assignments;
 
 public class PP7_ReverseEvenNumbers {
     public static void main(String[] args) {

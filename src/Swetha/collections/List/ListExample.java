@@ -1,4 +1,4 @@
-package Swetha.collections;
+package Swetha.collections.List;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,6 +10,7 @@ public class ListExample {
         List<Double> marks=new ArrayList<>();
         marks.add(120.8);
         marks.add(345.9);
+        marks.add(56.0); //No error, it will print both the values
         marks.add(56.0);
 
         List<Double> marks2=new ArrayList<>();
